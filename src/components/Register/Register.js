@@ -45,7 +45,7 @@ class Register extends React.Component{
     render(){
         const { onRouteChange } = this.props;
         return (
-            <div>
+            <div className="center">
             <article className="form mv4 w-100 w-50-m w-25-l mw6 shadow-5 center">
             <main className="pa4">
                 <div className="measure">
